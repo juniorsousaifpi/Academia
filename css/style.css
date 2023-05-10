@@ -1,0 +1,168 @@
+body ul li a {
+    list-style: none;
+    text-decoration: none;
+}
+
+.menu {
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    justify-content: flex-end;
+    column-gap: 2rem;
+    padding-right: 5rem;
+    align-items: center;
+    height: 60px;
+}
+
+.menu li {
+    list-style: none;
+}
+
+.topo {
+    text-align: center;
+    font-size: 24px;
+    justify-content: center;
+}
+
+.meio {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.vermelho {
+    text-align: right;
+    font-size: 30px;
+    color: brown;
+
+}
+
+.negrito {
+    font-weight: bold;
+    text-align: center;
+}
+
+.rodape {
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    column-gap: 1rem;
+}
+
+.rodape div {
+    position: relative;
+}
+
+.lupa {
+    width: 40px;
+    position: absolute;
+    right: 0;
+}
+
+.search-txt {
+    font-size: 30px;
+}
+
+.medio {
+    text-align: center;
+
+}
+
+.grade {
+    width: 5%;
+}
+
+.rapi {
+    width: 5%;
+}
+
+.pequeno {
+
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    column-gap: 1rem;
+}
+
+.vendas {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 0 17px;
+
+}
+
+.vendas>div {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 30%;
+}
+
+.valor {
+    color: blue;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.rapido{
+    text-align: center;
+}
+.movel{
+text-align: center;
+}
+
+.sistema{
+    text-align:center
+}
+
+
+.roda img{
+    max-height: 100%;
+    width: 75%;
+   
+}
+
+.wape{
+    
+}
+
+.zapi {
+    border: 1px solid black;
+    width: 25%;
+    background-color: white;
+    text-align: center;
+ }
+
+ .zapi img{
+    width: 10%
+
+ }
+
+ .zapi li{
+     list-style: none;
+
+ }
+
+.braw{
+    border: 1px solid black;
+    width: 25%;
+    text-align: center;
+}
+
+.tropa{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 0 17px;
+    flex-direction: column;
+}
+
+.Azul img{
+    max-height: 100%;
+    width: 90%;
+}
